@@ -1,0 +1,2 @@
+# tabsloggy
+Mozilla Firefox extension
