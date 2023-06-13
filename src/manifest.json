@@ -1,0 +1,74 @@
+{
+  "background": {
+      "scripts": [
+        "background.js"
+      ]
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "58.0"
+    }
+  },
+
+  "action": {
+    "browser_style": true,
+    "default_icon": {
+      "16": "img/logo2-tabsloggy.jpg",
+      "32": "img/logo2-tabsloggy.jpg",
+      "48": "img/logo2-tabsloggy.jpg",
+      "96": "img/logo2-tabsloggy.jpg"
+    },
+    "default_popup": "tabsloggy-popup.html",
+    "default_title": "tabsloggy"
+  },
+  
+  "name": "tabsloggy",
+  
+  "manifest_version": 3,
+  
+  "incognito": "spanning",
+
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'"
+  },
+
+  "commands": {
+    "exportData": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Y",
+        "chromeos": "Ctrl+Shift+Y",
+        "linux": "Ctrl+Shift+Y",
+        "mac": "Command+Shift+Y",
+        "windows": "Ctrl+Shift+Y"
+      },
+      "description": "__MSG_exportDataDesc__"
+    }
+  },
+
+  "default_locale": "en",
+
+  "description": "__MSG_appDesc__",
+
+  "homepage_url": "https://github.com/darko5r/tabsloggy",
+
+  "icons": {
+      "16": "img/logo2-tabsloggy.jpg",
+      "32": "img/logo2-tabsloggy.jpg",
+      "48": "img/logo2-tabsloggy.jpg",
+      "96": "img/logo2-tabsloggy.jpg",
+      "128": "img/logo2-tabsloggy.jpg"
+  },
+
+  "options_ui": {
+    "page": "tabsloggy-analytics.html
+  },
+
+  "permissions": [
+    "tabs",
+    "downloads",
+    "storage"
+  ],
+  
+  "version": "1.1.2"
+}
