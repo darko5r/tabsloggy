@@ -1,3 +1,6 @@
+// my bubble speech function 
+// averageTabCount function will be removed in next version
+
 function initializePopupPage() {
     Promise.all([
         browser.runtime.sendMessage({command: 'getCurrentWindowTabCount'}),
