@@ -3,6 +3,7 @@
 // TODO: add exporting to diff formats
 // TODO: add locales
 // TODO: add logo/favicon
+// TODO: initialize code inside the DOMContentLoaded event handler
 
 function initializePopupPage() {
     Promise.all([
