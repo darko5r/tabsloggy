@@ -5,6 +5,7 @@
 // TODO: add logo/favicon
 // TODO: initialize code inside the DOMContentLoaded event handler
 // generate xml
+// fix generate button after navigating to settings and back
 
 function initializePopupPage() {
     Promise.all([
