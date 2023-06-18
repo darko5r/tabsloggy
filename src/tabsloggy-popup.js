@@ -1,11 +1,12 @@
-// my bubble speech function 
-// averageTabCount function will be removed in next version
-// TODO: add exporting to diff formats
+// FILE_DESC: my bubble speech function 
+// TODO: averageTabCount function will be removed in next version
+// DONE: add exporting to diff formats
 // TODO: add locales
 // TODO: add logo/favicon
-// TODO: initialize code inside the DOMContentLoaded event handler
-// generate xml
-// fix generate button after navigating to settings and back
+// DONE: initialize code inside the DOMContentLoaded event handler
+// TODO: fix save settings
+// DONE: generate xml
+// DONE: fix generate button after navigating to settings and back
 
 function initializePopupPage() {
     Promise.all([
