@@ -4,6 +4,7 @@
 // TODO: add locales
 // TODO: add logo/favicon
 // TODO: initialize code inside the DOMContentLoaded event handler
+// generate xml
 
 function initializePopupPage() {
     Promise.all([
