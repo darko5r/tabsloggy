@@ -9,6 +9,7 @@
 // DONE: fix generate button after navigating to settings and back
 // DONE: remove innerHTML
 // TODO: use SAP
+// TODO: export all to ZIP
 
 document.addEventListener("DOMContentLoaded", () => {
 
