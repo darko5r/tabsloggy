@@ -7,6 +7,8 @@
 // TODO: fix save settings
 // DONE: generate xml
 // DONE: fix generate button after navigating to settings and back
+// DONE: remove innerHTML
+// TODO: use SAP
 
 document.addEventListener("DOMContentLoaded", () => {
 
