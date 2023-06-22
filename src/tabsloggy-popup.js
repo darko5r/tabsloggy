@@ -2,7 +2,7 @@
 // TODO: averageTabCount function will be removed in next version
 // DONE: add exporting to diff formats
 // TODO: add locales
-// TODO: add logo/favicon
+// DONE/TODO: add logo(<-DONE)/favicon(<-TODO)
 // DONE: initialize code inside the DOMContentLoaded event handler
 // TODO: save settings
 // DONE: generate xml
