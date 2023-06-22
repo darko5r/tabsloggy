@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
             .then(response => response.text())
             .then(data => {
                 document.body.innerHTML = data;
-                applyTranslations();  // Apply translations for the new content
+                applyTranslations(); 
                 assignEventListeners();
             });
         } else if(event.target.id === "backBtn") {
@@ -88,8 +88,8 @@ document.addEventListener("DOMContentLoaded", () => {
             .then(response => response.text())
             .then(data => {
                 document.body.innerHTML = data;
-                initializePopupPage(); // Initialize the dynamic content on the popup page
-                applyTranslations();  // Apply translations for the new content
+                initializePopupPage(); 
+                applyTranslations();  
                 assignEventListeners();
             });
         }
