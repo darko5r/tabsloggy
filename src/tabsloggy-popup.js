@@ -4,13 +4,13 @@
 // TODO: add locales
 // TODO: add logo/favicon
 // DONE: initialize code inside the DOMContentLoaded event handler
-// TODO: fix save settings
+// TODO: save settings
 // DONE: generate xml
 // DONE: fix generate button after navigating to settings and back
 // DONE: remove innerHTML
-// TODO: use SAP
+// DONE: use SAP
 // TODO: export all to ZIP
-// TODO: Save button fix
+// TODO: "Save" button fix (to work with SAP if possible)
 
 document.addEventListener("DOMContentLoaded", () => {
 
