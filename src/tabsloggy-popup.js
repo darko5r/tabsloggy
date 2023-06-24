@@ -1,4 +1,5 @@
 // FILE_DESC: my bubble speech function 
+// COMMENT_DESC: TODO/DONE comments for reminder
 // TODO: averageTabCount function will be removed in next version
 // DONE: add exporting to diff formats
 // TODO: add locales
