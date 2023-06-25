@@ -10,7 +10,7 @@
 // DONE: fix generate button after navigating to settings and back
 // DONE: remove innerHTML
 // DONE: use SAP
-// TODO: export all to ZIP
+// DONE: export all to ZIP
 // DONE: "Save" button fix (to work with SAP if possible)
 
 document.addEventListener("DOMContentLoaded", () => {
