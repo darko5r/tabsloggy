@@ -1,6 +1,6 @@
 // FILE_DESC: my bubble speech function 
 // COMMENT_DESC: TODO/DONE comments for reminder
-// TODO: averageTabCount function will be removed in next version
+// TODO: remove averageTabCount function / add same time/number opened websites counter
 // DONE: add exporting to diff formats
 // TODO: add locales
 // DONE/TODO: add logo(<-DONE)/favicon(<-TODO)
@@ -12,6 +12,9 @@
 // DONE: use SAP
 // DONE: export all to ZIP
 // DONE: "Save" button fix (to work with SAP if possible)
+// TODO: Cleanup code
+// TODO: Fix CSS / add animations 
+// TODO: XML validation
 
 document.addEventListener("DOMContentLoaded", () => {
 
