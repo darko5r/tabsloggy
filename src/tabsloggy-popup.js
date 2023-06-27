@@ -18,6 +18,10 @@
 // TODO: Fix CSS / add animations 
 // TODO: XML validation
 
+/**
+ * @app ✨tabsloggy✨
+ */
+
 document.addEventListener("DOMContentLoaded", () => {
 
     function applyTranslations() {
