@@ -12,6 +12,7 @@
 // DONE: use SAP
 // DONE: export all to ZIP
 // DONE: "Save" button fix (to work with SAP if possible)
+// TODO: Correct/add comments
 // TODO: Cleanup code
 // TODO: Remove global variables 
 // TODO: Fix CSS / add animations 
