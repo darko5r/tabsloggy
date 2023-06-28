@@ -1,24 +1,4 @@
 // FILE_DESC: my bubble speech function 
-// COMMENT_DESC: TODO/DONE comments for reminder
-// TODO: remove averageTabCount function / add same time/number opened websites counter
-// DONE: add exporting to diff formats
-// TODO: add locales
-// DONE/TODO: add logo(<-DONE)/favicon(<-TODO)
-// DONE: initialize code inside the DOMContentLoaded event handler
-// DONE: save settings
-// DONE: generate xml
-// DONE: fix generate button after navigating to settings and back
-// DONE: remove innerHTML
-// DONE: use SAP
-// DONE: export all to ZIP
-// DONE: "Save" button fix (to work with SAP if possible)
-// TODO: Correct/add comments and sources
-// TODO: Cleanup code
-// TODO: Remove global variables 
-// TODO: Fix CSS / add animations 
-// TODO: XML validation
-// TODO: User auth
-// TODO: Register/login forms
 
 /**
  * @app ✨tabsloggy✨
