@@ -1,6 +1,6 @@
-// FILE_DESC: my bubble speech function 
-
 /**
+ * @file tabsloggy-popup.js
+ * @desc my bubble speech function
  * @app ✨tabsloggy✨
  */
 
