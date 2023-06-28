@@ -17,6 +17,7 @@
 // TODO: Remove global variables 
 // TODO: Fix CSS / add animations 
 // TODO: XML validation
+// TODO: User auth
 
 /**
  * @app ✨tabsloggy✨
