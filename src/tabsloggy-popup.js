@@ -18,6 +18,7 @@
 // TODO: Fix CSS / add animations 
 // TODO: XML validation
 // TODO: User auth
+// TODO: Register/login forms
 
 /**
  * @app ✨tabsloggy✨
