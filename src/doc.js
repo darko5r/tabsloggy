@@ -18,6 +18,7 @@
  * @todo remove averageTabCount function.
  * @todo add same time/number opened websites counter.
  * @todo add locales.
+ * @todo add favicon
  * @todo Correct/add comments and sources.
  * @todo Cleanup code.
  * @todo Remove global variables.
