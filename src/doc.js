@@ -26,4 +26,5 @@
  * @todo XML validation.
  * @todo User auth.
  * @todo Register/login forms.
+ * @todo 2 options for auth (chrome unlimited or indexeddb)
  */
