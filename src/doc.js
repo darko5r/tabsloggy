@@ -13,6 +13,7 @@
  * @done use SAP.
  * @done export all to ZIP.
  * @done "Save" button fix (to work with SAP if possible).
+ * @done added register/login buttons 
  * 
  * TODO:
  * @todo remove averageTabCount function.
