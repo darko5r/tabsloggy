@@ -3,7 +3,7 @@
  * @description TODO/DONE comments for reminder.
  * 
  * DONE:
- * @done add exporting to different formats.
+ * @done ~~add exporting to different formats.~~
  * @done add logo.
  * @done initialize code inside the DOMContentLoaded event handler.
  * @done save settings.
