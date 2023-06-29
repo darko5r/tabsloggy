@@ -14,6 +14,7 @@
  * @done export all to ZIP.
  * @done "Save" button fix (to work with SAP if possible).
  * @done added register/login buttons 
+ * @done show/hide workable code and icons for password input fields
  * 
  * TODO:
  * @todo remove averageTabCount function.
