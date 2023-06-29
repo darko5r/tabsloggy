@@ -31,4 +31,3 @@
  * @todo Register/login forms.
  * @todo 2 options for auth (chrome unlimited or indexeddb)
  */
-~~Txt~~
