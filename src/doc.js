@@ -16,6 +16,9 @@
  * @done "Save" button fix (to work with SAP if possible).
  * @done added register/login buttons 
  * @done show/hide workable code and icons for password input fields
+ * @done User auth.
+ * @done Register/login forms.
+ * @done 2 options for auth (chrome unlimited or indexeddb)
  * 
  * TODO:
  * @todo remove averageTabCount function.
@@ -26,8 +29,6 @@
  * @todo Cleanup code.
  * @todo Remove global variables.
  * @todo Fix CSS / add animations.
- * @todo XML validation.
- * @todo User auth.
- * @todo Register/login forms.
- * @todo 2 options for auth (chrome unlimited or indexeddb)
+ * @todo XML validation
+ * @todo users landing page
  */
