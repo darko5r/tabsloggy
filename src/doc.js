@@ -31,4 +31,5 @@
  * @todo Fix CSS / add animations.
  * @todo XML validation
  * @todo users landing page
+ * @todo password hash, encryption 
  */
