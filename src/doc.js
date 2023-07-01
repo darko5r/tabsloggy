@@ -32,5 +32,5 @@
  * @todo XML validation
  * @todo users landing page
  * @todo password hash, encryption
- * @todo fix same body functions from diff DOM
+ * @todo fix same body functions from diff DOM in landing page
  */
