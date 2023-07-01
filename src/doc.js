@@ -33,4 +33,5 @@
  * @todo users landing page
  * @todo password hash, encryption
  * @todo fix same body functions from diff DOM in landing page
+ * @todo logout button
  */
