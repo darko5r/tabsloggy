@@ -20,6 +20,8 @@
  * @done Register/login forms.
  * @done 2 options for auth (chrome unlimited or indexeddb)
  * @done fix same body functions from diff DOM in landing page
+ * @done logout button
+ * @done user edit
  * 
  * TODO:
  * @todo remove averageTabCount function.
@@ -33,8 +35,8 @@
  * @todo XML validation
  * @todo users landing page
  * @todo password hash, encryption
- * @todo logout button
- * @todo user edit
  * @todo user links underlined 
  * @todo sync user acc.
+ * @todo remember user session key
+ * @todo logout key
  */
