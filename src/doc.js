@@ -36,4 +36,5 @@
  * @todo logout button
  * @todo user edit
  * @todo user links underlined 
+ * @todo sync user acc.
  */
