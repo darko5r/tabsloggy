@@ -22,7 +22,7 @@
  * @done fix same body functions from diff DOM in landing page
  * @done logout button
  * @done user edit
- * @done persist storage
+ * @done persistent storage
  * 
  * TODO:
  * @todo remove averageTabCount function.
@@ -40,4 +40,5 @@
  * @todo sync user acc.
  * @todo remember user session key
  * @todo logout key
+ * @todo fix buttons to works after login
  */
