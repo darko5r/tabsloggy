@@ -1,6 +1,6 @@
 /** 
  * @file This file contains the working process of my exporting tabs extension. New todos and dones are added every day.
- * @description TODO/DONE comments for reminder.
+ * @description TODO/DONE comments for reminder, also in queue for next version.
  * 
  * DONE:
  *  
@@ -23,6 +23,7 @@
  * @done logout button
  * @done user edit
  * @done persistent storage
+ * @done remove user auth in first version and deploy 
  * 
  * TODO:
  * @todo remove averageTabCount function.
@@ -34,11 +35,14 @@
  * @todo Remove global variables.
  * @todo Fix CSS / add animations.
  * @todo XML validation
- * @todo users landing page
- * @todo password hash, encryption
  * @todo user links underlined 
  * @todo sync user acc.
- * @todo remember user session key
- * @todo logout key
- * @todo fix buttons to works after login
+ * @todo persistent storage for save state
+ * 
+ * QUEUE:
+ * @queue users landing page
+ * @queue password hash, encryption
+ * @queue remember user session key
+ * @queue logout key
+ * @queue fix buttons to works after login
  */
