@@ -26,6 +26,7 @@
  * @done remove user auth in first version and deploy 
  * 
  * TODO:
+ *
  * @todo remove averageTabCount function.
  * @todo add same time/number opened websites counter.
  * @todo add locales.
@@ -40,6 +41,7 @@
  * @todo persistent storage for save state
  * 
  * QUEUE:
+ *
  * @queue users landing page
  * @queue password hash, encryption
  * @queue remember user session key
