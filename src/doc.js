@@ -23,7 +23,7 @@
  * @done logout button
  * @done user edit
  * @done persistent storage
- * @done remove user auth in first version and deploy 
+ * @done remove user auth in first version
  * 
  * TODO:
  *
@@ -40,6 +40,7 @@
  * @todo sync user acc.
  * @todo persistent storage for save state
  * @todo cloudflare workers tryouts 
+ * @todo deploy 
  * 
  * QUEUE:
  *
