@@ -39,6 +39,7 @@
  * @todo user links underlined 
  * @todo sync user acc.
  * @todo persistent storage for save state
+ * @todo cloudflare workers tryouts 
  * 
  * QUEUE:
  *
