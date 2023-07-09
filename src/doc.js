@@ -26,6 +26,7 @@
  * @done remove user auth in first version
  * @done corrected manifest.json warnings: options_ui.browser_style: "browser_style:true"
  * @done Fix CSS / add animations.
+ * @done persistent storage for save state
  * 
  * TODO:
  *
@@ -39,7 +40,6 @@
  * @todo XML validation
  * @todo user links underlined 
  * @todo sync user acc.
- * @todo persistent storage for save state
  * @todo cloudflare workers tryouts 
  * @todo deploy 
  * 
