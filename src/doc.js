@@ -28,6 +28,7 @@
  * @done Fix CSS / add animations.
  * @done persistent storage for save state
  * @done user links underlined (hover, changed initial idea) 
+ * @done switch for enabling select in bubble speech (settings) 
  * 
  * TODO:
  *
