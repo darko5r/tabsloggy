@@ -13,7 +13,7 @@
  * @done remove innerHTML.
  * @done use SAP.
  * @done export all to ZIP.
- * @done "Save" button fix (to work with SAP if possible).
+ * @done "Save" button fix
  * @done added register/login buttons 
  * @done show/hide workable code and icons for password input fields
  * @done User auth.
